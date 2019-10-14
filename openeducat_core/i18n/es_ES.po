@@ -2163,8 +2163,8 @@ msgstr "Check user"
 
 #. module: openeducat_core_enterprise
 #: model:ir.ui.view,arch_db:openeducat_core_enterprise.db_registration
-msgid "Check your mail! OpenEduCat Instance Hash key has been sent successfully."
-msgstr "Check your mail! OpenEduCat Instance Hash key has been sent successfully."
+msgid "Check your mail! School Instance Hash key has been sent successfully."
+msgstr "Check your mail! School Instance Hash key has been sent successfully."
 
 #. module: openeducat_health_enterprise
 #: model:ir.model.fields,field_description:openeducat_health_enterprise.field_op_health_line_name
@@ -2646,8 +2646,8 @@ msgstr "Contratos"
 #. openerp-web
 #: code:addons/openeducat_support/static/src/xml/web_planner.xml:33
 #, python-format
-msgid "Copyright © 2009-2015 OpenEduCat"
-msgstr "Copyright © 2009-2015 OpenEduCat"
+msgid "Copyright © 2009-2015 School"
+msgstr "Copyright © 2009-2015 School"
 
 #. module: openeducat_quiz
 #: model:ir.model.fields,field_description:openeducat_quiz.field_op_quiz_result_line_answer
@@ -5069,8 +5069,8 @@ msgstr "Held Exam Wizard"
 #. openerp-web
 #: code:addons/openeducat_support/static/src/xml/web_planner.xml:9
 #, python-format
-msgid "Help us spread the word: Share OpenEduCat with your friends!"
-msgstr "Help us spread the word: Share OpenEduCat with your friends!"
+msgid "Help us spread the word: Share School with your friends!"
+msgstr "Help us spread the word: Share School with your friends!"
 
 #. module: openeducat_transportation_enterprise
 #: model:ir.module.category,description:openeducat_transportation_enterprise.module_category_openeducat_transportation
@@ -7018,8 +7018,8 @@ msgstr "Mis reuniones"
 #. openerp-web
 #: code:addons/openeducat_support/static/src/xml/web.xml:4
 #, python-format
-msgid "My OpenEduCat.com account"
-msgstr "My OpenEduCat.com account"
+msgid "My School.com account"
+msgstr "My School.com account"
 
 #. modules: openeducat_lms, openeducat_campus_enterprise, openeducat_classroom, openeducat_parent, openeducat_library, openeducat_quiz, openeducat_lms_forum, openeducat_facility, openeducat_admission, openeducat_achievement_enterprise, openeducat_attendance, openeducat_transportation_enterprise, openeducat_assignment, openeducat_activity, openeducat_timetable, openeducat_core, openeducat_scholarship_enterprise, openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_achievement_enterprise.field_op_achievement_type_name
@@ -7374,29 +7374,29 @@ msgstr "Open attempts are submitted automatically"
 #: code:addons/openeducat_lms/static/src/js/openeducat_lms_dashboard.js:119
 #: code:addons/openeducat_support/static/src/xml/web_planner.xml:27
 #, python-format
-msgid "OpenEduCat"
-msgstr "OpenEduCat"
+msgid "School"
+msgstr "School"
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
-msgstr "OpenEduCat Others"
+msgid "School Others"
+msgstr "School Others"
 
 #. module: openeducat_transportation_enterprise
 #: model:ir.module.category,name:openeducat_transportation_enterprise.module_category_openeducat_transportation
-msgid "OpenEduCat Transportation"
-msgstr "OpenEduCat Transportation"
+msgid "School Transportation"
+msgstr "School Transportation"
 
 #. module: openeducat_core
 #: model:ir.ui.view,arch_db:openeducat_core.aboutus_openeducat
 #: model:ir.ui.view,arch_db:openeducat_core.footer_default_openeducat
-msgid "OpenEduCat is a product developed by Tech-Receptives\n"
+msgid "School is a product developed by Tech-Receptives\n"
 "                        Solutions Pvt. Ltd., an expert company focusing in providing\n"
 "                        unique open source solutions.\n"
 "                        <br/>\n"
 "                        In due course we accumulated a team of strong, experienced,\n"
 "                        creative, talented and dedicated engineers and designers."
-msgstr "OpenEduCat es un producto desarrollado por Tech-Receptives Solutions Pvt. Ltd., una empresa experta en soluciones de código abierto único.\n"
+msgstr "School es un producto desarrollado por Tech-Receptives Solutions Pvt. Ltd., una empresa experta en soluciones de código abierto único.\n"
 "                        <br/>\n"
 "                        a su debido tiempo que hemos acumulado un equipo fuerte, experimentado, creativos, talentosos y dedicados de ingenieros y diseñadores."
 
@@ -7404,8 +7404,8 @@ msgstr "OpenEduCat es un producto desarrollado por Tech-Receptives Solutions Pvt
 #. openerp-web
 #: code:addons/openeducat_support/static/src/xml/web_planner.xml:34
 #, python-format
-msgid "OpenEduCat is a trademark of"
-msgstr "OpenEduCat is a trademark of"
+msgid "School is a trademark of"
+msgstr "School is a trademark of"
 
 #. module: openeducat_core_enterprise
 #: model:ir.ui.view,arch_db:openeducat_core_enterprise.res_config_settings_view_form

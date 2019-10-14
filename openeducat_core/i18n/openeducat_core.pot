@@ -1198,18 +1198,18 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
+msgid "School Others"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.ui.view,arch_db:openeducat_core.aboutus_openeducat
 #: model:ir.ui.view,arch_db:openeducat_core.footer_default_openeducat
-msgid "OpenEduCat is a product developed by Tech-Receptives\n"
+msgid "School is a product developed by Tech-Receptives\n"
 "                        Solutions Pvt. Ltd., an expert company focusing in providing\n"
 "                        unique open source solutions.\n"
 "                        <br/>\n"

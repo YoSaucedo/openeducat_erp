@@ -377,8 +377,8 @@ msgstr "Bibliothèque"
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.navbar_mega
-msgid "Logo of OpenEduCat"
-msgstr "Logo de OpenEduCat"
+msgid "Logo of School"
+msgstr "Logo de School"
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.homepage_inherit
@@ -468,8 +468,8 @@ msgstr "En ligne <br=="br-lg-on\"/> éducation"
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.navbar_mega
-msgid "OpenEduCat"
-msgstr "OpenEduCat"
+msgid "School"
+msgstr "School"
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.homepage_inherit

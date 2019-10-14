@@ -377,7 +377,7 @@ msgstr ""
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.navbar_mega
-msgid "Logo of OpenEduCat"
+msgid "Logo of School"
 msgstr ""
 
 #. module: web_openeducat
@@ -468,7 +468,7 @@ msgstr ""
 
 #. module: web_openeducat
 #: model:ir.ui.view,arch_db:web_openeducat.navbar_mega
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: web_openeducat

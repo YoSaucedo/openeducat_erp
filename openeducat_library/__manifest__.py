@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Library',
+    'name': 'School Library',
     'version': '11.0.1.0.0',
     'license': 'LGPL-3',
     'category': 'Education',

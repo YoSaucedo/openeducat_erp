@@ -55,7 +55,7 @@
                         <div class="container">
                             <div class="row">
                                 <h1 style="text-align: center;">
-                                    <strong>OpenEduCat</strong>
+                                    <strong>School</strong>
                                 </h1>
                                 <p style="text-align: justify;">A fully open source ERP
                                     system for educational
@@ -66,7 +66,7 @@
                                     <br />
                                     Based on best of class enterprise
                                     level architecture make
-                                    <strong>OpenEduCat </strong>
+                                    <strong>School </strong>
                                     ready to use in environments like
                                     local infrastructure or a
                                     highly scalable cloud environment.
@@ -78,7 +78,7 @@
                         <div class="container-fluid highlight">
                             <div class="row mb32 mt16">
                                 <h2 class="text-center">
-                                    OpenEduCat
+                                    School
                                     <strong>Features</strong>
                                 </h2>
                             </div>
@@ -611,7 +611,7 @@
                                         <span style="color:#FFFFFF;">Let us know if
                                             you have any specific
                                             inquiries
-                                            about OpenEduCat, or if you have any comments
+                                            about School, or if you have any comments
                                             regarding
                                             anything, or even if you just want to say “Hi”.
                                         </span>

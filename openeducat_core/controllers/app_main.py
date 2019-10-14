@@ -24,7 +24,7 @@ from odoo import http
 from odoo.http import request
 
 
-class OpenEduCatAppController(http.Controller):
+class SchoolAppController(http.Controller):
 
     @http.route(['/openeducat_core/get_app_dash_data'], type='json',
                 auth='none', methods=['POST'], csrf=False)

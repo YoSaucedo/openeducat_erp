@@ -1112,19 +1112,19 @@ msgstr "O-ve"
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
-msgstr "OpenEduCat"
+msgid "School"
+msgstr "School"
 
 #. module: openeducat_core
 #: model:ir.ui.view,arch_db:openeducat_core.aboutus_openeducat
 #: model:ir.ui.view,arch_db:openeducat_core.footer_default_openeducat
-msgid "OpenEduCat is a product developed by Tech-Receptives\n"
+msgid "School is a product developed by Tech-Receptives\n"
 "                        Solutions Pvt. Ltd., an expert company focusing in providing\n"
 "                        unique open source solutions.\n"
 "                        <br/>\n"
 "                        In due course we accumulated a team of strong, experienced,\n"
 "                        creative, talented and dedicated engineers and designers."
-msgstr "OpenEduCat là một sản phẩm được phát triển bởi công nghệ-Receptives giải pháp Pvt. Ltd, một công ty chuyên tập trung cung cấp các giải pháp nguồn mở độc đáo.\n"
+msgstr "School là một sản phẩm được phát triển bởi công nghệ-Receptives giải pháp Pvt. Ltd, một công ty chuyên tập trung cung cấp các giải pháp nguồn mở độc đáo.\n"
 "                        <br/>\n"
 "                        trong khóa học do chúng tôi tích lũy được một đội ngũ vững mạnh, có kinh nghiệm, sáng tạo, tài năng và dành riêng cho các kỹ sư và nhà thiết kế."
 

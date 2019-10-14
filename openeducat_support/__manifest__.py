@@ -19,9 +19,9 @@
 #
 ###############################################################################
 {
-    'name': 'OpenEduCat Support',
+    'name': 'School Support',
     'category': 'Planner',
-    'summary': 'Help to configure OpenEduCat',
+    'summary': 'Help to configure School',
     'version': '11.0.1.0.0',
     'license': 'LGPL-3',
     "sequence": 3,
