@@ -1709,50 +1709,50 @@ msgstr "على الانترنت القبول المؤسسة"
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
+msgid "School"
 msgstr "أوبينيدوكات"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat Apps"
-msgstr "OpenEduCat تطبيقات"
+msgid "School Apps"
+msgstr "School تطبيقات"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_batch
-msgid "OpenEduCat Batch"
-msgstr "OpenEduCat الدفعة"
+msgid "School Batch"
+msgstr "School الدفعة"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_category
-msgid "OpenEduCat Category"
-msgstr "OpenEduCat الفئة"
+msgid "School Category"
+msgstr "School الفئة"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_course
-msgid "OpenEduCat Course"
-msgstr "دورة OpenEduCat"
+msgid "School Course"
+msgstr "دورة School"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat كلية"
+msgid "School Faculty"
+msgstr "School كلية"
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
-msgstr "OpenEduCat أخرى"
+msgid "School Others"
+msgstr "School أخرى"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create\n"
+msgid "School learning management system helps you to create your online course. Create\n"
 "                                    your sections and course material in it."
-msgstr "OpenEduCat نظام إدارة التعلم يساعد على خلق لكم بالطبع على الانترنت. خلق\n"
+msgstr "School نظام إدارة التعلم يساعد على خلق لكم بالطبع على الانترنت. خلق\n"
 "                                    أقسام والمواد الدراسية فيها."
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create your sections and course material in it."
-msgstr "OpenEduCat نظام إدارة التعلم يساعد على خلق لكم بالطبع على الانترنت. إنشاء أقسام والمواد الدراسية فيها."
+msgid "School learning management system helps you to create your online course. Create your sections and course material in it."
+msgstr "School نظام إدارة التعلم يساعد على خلق لكم بالطبع على الانترنت. إنشاء أقسام والمواد الدراسية فيها."
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core

@@ -25,7 +25,7 @@ from odoo import models, fields, api, _
 class OpCourse(models.Model):
     _name = "op.course"
     _inherit = "mail.thread"
-    _description = "OpenEduCat Course"
+    _description = "School Course"
 
     name = fields.Char('Name', required=True)
     code = fields.Char('Code', size=16, required=True)

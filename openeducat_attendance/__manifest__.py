@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Attendance',
+    'name': 'School Attendance',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

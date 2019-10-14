@@ -429,8 +429,8 @@ msgstr "Nombre de messages non lus"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_course
-msgid "OpenEduCat Course"
-msgstr "Cours OpenEduCat"
+msgid "School Course"
+msgstr "Cours School"
 
 #. module: openeducat_fees
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.fees_detail_report_wizard_form

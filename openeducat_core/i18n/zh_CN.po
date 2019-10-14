@@ -1709,50 +1709,50 @@ msgstr "网上录取企业"
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat Apps"
-msgstr "OpenEduCat应用"
+msgid "School Apps"
+msgstr "School应用"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_batch
-msgid "OpenEduCat Batch"
-msgstr "OpenEduCat批"
+msgid "School Batch"
+msgstr "School批"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_category
-msgid "OpenEduCat Category"
-msgstr "OpenEduCat类别"
+msgid "School Category"
+msgstr "School类别"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_course
-msgid "OpenEduCat Course"
-msgstr "OpenEduCat课程"
+msgid "School Course"
+msgstr "School课程"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat学院"
+msgid "School Faculty"
+msgstr "School学院"
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
-msgstr "OpenEduCat其他"
+msgid "School Others"
+msgstr "School其他"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create\n"
+msgid "School learning management system helps you to create your online course. Create\n"
 "                                    your sections and course material in it."
-msgstr "OpenEduCat学习管理系统可帮助您创建在线课程。创造\n"
+msgstr "School学习管理系统可帮助您创建在线课程。创造\n"
 "                                    您的区域，并在其过程中的材料。"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create your sections and course material in it."
-msgstr "OpenEduCat学习管理系统可帮助您创建在线课程。在它创建段和课程材料。"
+msgid "School learning management system helps you to create your online course. Create your sections and course material in it."
+msgstr "School学习管理系统可帮助您创建在线课程。在它创建段和课程材料。"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core

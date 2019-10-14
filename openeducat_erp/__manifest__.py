@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'OpenEduCat ERP',
+    'name': 'School ERP',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

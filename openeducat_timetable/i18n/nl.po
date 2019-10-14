@@ -585,8 +585,8 @@ msgstr "Aantal ongelezen berichten"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Faculteit"
+msgid "School Faculty"
+msgstr "School Faculteit"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_student_generate

@@ -41,16 +41,16 @@
                     <section class="mt16 mb0 para_large" style="padding-bottom: 47px;">
                         <div class="container">
                             <div class="row">
-                                <h1 style="text-align: center;"><strong>OpenEduCat</strong></h1>
+                                <h1 style="text-align: center;"><strong>School</strong></h1>
                                 <p style="text-align: justify;">A fully open source ERP system for educational institute, for efficient management of students, faculties, courses and classes keeping a collaborative platform.</p>
-                                <p style="text-align: justify;"><br/>Based on best of class enterprise level architecture make <strong>OpenEduCat</strong> ready to use in environments like local infrastructure or a highly scalable cloud environment.</p>
+                                <p style="text-align: justify;"><br/>Based on best of class enterprise level architecture make <strong>School</strong> ready to use in environments like local infrastructure or a highly scalable cloud environment.</p>
                             </div>
                         </div>
                     </section>
                     <section>
                         <div class="container-fluid highlight">
                             <div class="row mb32 mt16">
-                                <h2 class="text-center">OpenEduCat<strong>Features</strong></h2>
+                                <h2 class="text-center">School<strong>Features</strong></h2>
                             </div>
                         </div>
                     </section>
@@ -289,7 +289,7 @@
                             <div class="row">
                                 <div class="col-md-9 text-muted">
                                     <p class="mb0">
-                                        <span style="color:#FFFFFF;">Let us know if you have any specific inquiries about OpenEduCat, or if you have any comments regarding anything, or even if you just want to say “Hi”.</span>
+                                        <span style="color:#FFFFFF;">Let us know if you have any specific inquiries about School, or if you have any comments regarding anything, or even if you just want to say “Hi”.</span>
                                     </p>
                                 </div>
                                 <div class="col-md-3">

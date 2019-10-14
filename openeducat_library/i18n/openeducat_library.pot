@@ -970,7 +970,7 @@ msgstr ""
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_faculty
-msgid "OpenEduCat Faculty"
+msgid "School Faculty"
 msgstr ""
 
 #. module: openeducat_library

@@ -999,8 +999,8 @@ msgstr "Số tin nhắn chưa đọc"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Khoa"
+msgid "School Faculty"
+msgstr "School Khoa"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_reserve_media__partner_id

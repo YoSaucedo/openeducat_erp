@@ -1334,37 +1334,37 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_batch
-msgid "OpenEduCat Batch"
+msgid "School Batch"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_category
-msgid "OpenEduCat Category"
+msgid "School Category"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_course
-msgid "OpenEduCat Course"
+msgid "School Course"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
-msgid "OpenEduCat Faculty"
+msgid "School Faculty"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
+msgid "School Others"
 msgstr ""
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.footer_default_openeducat
-msgid "OpenEduCat is a product developed by Tech-Receptives Solutions Pvt. Ltd., an expert company focusing in providing unique open source solutions.<br/>In due course we accumulated a team of strong, experienced, creative, talented and dedicated engineers and designers."
+msgid "School is a product developed by Tech-Receptives Solutions Pvt. Ltd., an expert company focusing in providing unique open source solutions.<br/>In due course we accumulated a team of strong, experienced, creative, talented and dedicated engineers and designers."
 msgstr ""
 
 #. module: openeducat_core

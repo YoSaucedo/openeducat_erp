@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'Web OpenEduCat',
+    'name': 'Web School',
     'description': 'Beautifies Website',
     'category': 'Website',
     "sequence": 3,

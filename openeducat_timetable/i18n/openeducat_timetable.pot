@@ -541,7 +541,7 @@ msgstr ""
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_op_faculty
-msgid "OpenEduCat Faculty"
+msgid "School Faculty"
 msgstr ""
 
 #. module: openeducat_timetable

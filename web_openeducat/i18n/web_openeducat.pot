@@ -374,7 +374,7 @@ msgstr ""
 
 #. module: web_openeducat
 #: model_terms:ir.ui.view,arch_db:web_openeducat.layout_logo_show_inherit
-msgid "Logo of OpenEduCat"
+msgid "Logo of School"
 msgstr ""
 
 #. module: web_openeducat
@@ -463,7 +463,7 @@ msgstr ""
 
 #. module: web_openeducat
 #: model_terms:ir.ui.view,arch_db:web_openeducat.layout_logo_show_inherit
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: web_openeducat

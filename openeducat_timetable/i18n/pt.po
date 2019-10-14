@@ -585,8 +585,8 @@ msgstr "Número de mensagens não lidas"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Faculdade"
+msgid "School Faculty"
+msgstr "School Faculdade"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_student_generate

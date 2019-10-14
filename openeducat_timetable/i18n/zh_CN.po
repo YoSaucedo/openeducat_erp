@@ -585,8 +585,8 @@ msgstr "未读邮件数"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat学院"
+msgid "School Faculty"
+msgstr "School学院"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_student_generate

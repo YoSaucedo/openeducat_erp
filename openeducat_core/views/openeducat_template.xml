@@ -3,7 +3,7 @@
     <data>
         <template id="fav_ico" name="educat Icon" inherit_id="web.layout">
             <xpath expr="//html/head/title" position="replace">
-                <title>OpenEduCat</title>
+                <title>School</title>
             </xpath>
         </template>
 

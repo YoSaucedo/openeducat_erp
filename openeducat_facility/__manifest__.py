@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Facility',
+    'name': 'School Facility',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

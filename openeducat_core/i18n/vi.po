@@ -1709,50 +1709,50 @@ msgstr "Doanh nghiệp nhập học trực tuyến"
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
-msgid "OpenEduCat"
+msgid "School"
 msgstr ""
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat Apps"
+msgid "School Apps"
 msgstr ""
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_batch
-msgid "OpenEduCat Batch"
-msgstr "OpenEduCat hàng loạt"
+msgid "School Batch"
+msgstr "School hàng loạt"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_category
-msgid "OpenEduCat Category"
-msgstr "OpenEduCat Thể loại"
+msgid "School Category"
+msgstr "School Thể loại"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_course
-msgid "OpenEduCat Course"
-msgstr "OpenEduCat Khóa học"
+msgid "School Course"
+msgstr "School Khóa học"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Khoa"
+msgid "School Faculty"
+msgstr "School Khoa"
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
-msgid "OpenEduCat Others"
-msgstr "OpenEduCat Khác"
+msgid "School Others"
+msgstr "School Khác"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create\n"
+msgid "School learning management system helps you to create your online course. Create\n"
 "                                    your sections and course material in it."
-msgstr "OpenEduCat hệ quản trị đào tạo giúp bạn tạo ra khóa học trực tuyến của bạn. Tạo nên\n"
+msgstr "School hệ quản trị đào tạo giúp bạn tạo ra khóa học trực tuyến của bạn. Tạo nên\n"
 "                                    mục của mình và tài liệu khóa học trong đó."
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat learning management system helps you to create your online course. Create your sections and course material in it."
-msgstr "OpenEduCat hệ quản trị đào tạo giúp bạn tạo ra khóa học trực tuyến của bạn. Tạo mục của mình và tài liệu khóa học trong đó."
+msgid "School learning management system helps you to create your online course. Create your sections and course material in it."
+msgstr "School hệ quản trị đào tạo giúp bạn tạo ra khóa học trực tuyến của bạn. Tạo mục của mình và tài liệu khóa học trong đó."
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core

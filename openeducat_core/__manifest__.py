@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Core',
+    'name': 'School Core',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

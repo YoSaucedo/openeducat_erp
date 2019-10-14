@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': "OpenEduCat Admission",
+    'name': "School Admission",
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

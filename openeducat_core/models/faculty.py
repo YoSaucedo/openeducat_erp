@@ -25,7 +25,7 @@ from odoo.exceptions import ValidationError
 
 class OpFaculty(models.Model):
     _name = "op.faculty"
-    _description = "OpenEduCat Faculty"
+    _description = "School Faculty"
     _inherit = "mail.thread"
     _inherits = {"res.partner": "partner_id"}
 

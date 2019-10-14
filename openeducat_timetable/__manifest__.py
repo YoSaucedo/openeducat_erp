@@ -19,7 +19,7 @@
 #
 ###############################################################################
 {
-    'name': 'OpenEduCat Timetable',
+    'name': 'School Timetable',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

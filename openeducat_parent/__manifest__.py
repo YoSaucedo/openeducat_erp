@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Parent',
+    'name': 'School Parent',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

@@ -26,7 +26,7 @@ from odoo.addons.portal.controllers.web import \
     Home as home
 
 
-class OpenEduCatAppController(http.Controller):
+class SchoolAppController(http.Controller):
 
     @http.route(['/openeducat_core/get_app_dash_data'], type='json',
                 auth='none', methods=['POST'], csrf=False)

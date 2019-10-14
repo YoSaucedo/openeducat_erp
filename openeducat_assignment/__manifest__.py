@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Assignment',
+    'name': 'School Assignment',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

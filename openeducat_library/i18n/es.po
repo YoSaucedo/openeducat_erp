@@ -999,8 +999,8 @@ msgstr "Número de mensajes no leídos"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Facultad"
+msgid "School Faculty"
+msgstr "School Facultad"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_reserve_media__partner_id

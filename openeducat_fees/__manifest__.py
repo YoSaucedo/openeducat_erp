@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Fees',
+    'name': 'School Fees',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

@@ -429,8 +429,8 @@ msgstr "未读邮件数"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_course
-msgid "OpenEduCat Course"
-msgstr "OpenEduCat课程"
+msgid "School Course"
+msgstr "School课程"
 
 #. module: openeducat_fees
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.fees_detail_report_wizard_form

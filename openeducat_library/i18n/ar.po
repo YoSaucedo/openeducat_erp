@@ -999,8 +999,8 @@ msgstr "عدد الرسائل غير المقروءة"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat كلية"
+msgid "School Faculty"
+msgstr "School كلية"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_reserve_media__partner_id

@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Activity',
+    'name': 'School Activity',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

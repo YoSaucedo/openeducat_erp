@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Exam',
+    'name': 'School Exam',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',

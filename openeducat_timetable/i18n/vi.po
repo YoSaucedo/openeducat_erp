@@ -585,8 +585,8 @@ msgstr "Số tin nhắn chưa đọc"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_op_faculty
-msgid "OpenEduCat Faculty"
-msgstr "OpenEduCat Khoa"
+msgid "School Faculty"
+msgstr "School Khoa"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_student_generate

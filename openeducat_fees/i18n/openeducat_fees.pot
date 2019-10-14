@@ -391,7 +391,7 @@ msgstr ""
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_course
-msgid "OpenEduCat Course"
+msgid "School Course"
 msgstr ""
 
 #. module: openeducat_fees
