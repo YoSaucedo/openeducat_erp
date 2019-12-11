@@ -257,7 +257,7 @@ msgstr "Fecha"
 #: model:ir.model.fields,field_description:openeducat_attendance.field_report_openeducat_attendance_student_attendance_report__display_name
 #: model:ir.model.fields,field_description:openeducat_attendance.field_student_attendance__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Nombre a mostrar"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
@@ -294,12 +294,12 @@ msgstr "Seguidores (Empresas)"
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_student_attendance__from_date
 msgid "From Date"
-msgstr "Partir de la fecha"
+msgstr "A partir de la fecha"
 
 #. module: openeducat_attendance
 #: model:ir.actions.report,name:openeducat_attendance.action_report_student_attendance
 msgid "Generate Attendance"
-msgstr "generar Asistencia"
+msgstr "Generar Asistencia"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_search
@@ -316,7 +316,7 @@ msgstr "Agrupar por..."
 #: model:ir.model.fields,field_description:openeducat_attendance.field_report_openeducat_attendance_student_attendance_report__id
 #: model:ir.model.fields,field_description:openeducat_attendance.field_student_attendance__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,help:openeducat_attendance.field_op_attendance_line__message_unread
@@ -354,7 +354,7 @@ msgstr "Es un seguidor"
 #: model:ir.model.fields,field_description:openeducat_attendance.field_report_openeducat_attendance_student_attendance_report____last_update
 #: model:ir.model.fields,field_description:openeducat_attendance.field_student_attendance____last_update
 msgid "Last Modified on"
-msgstr "Última modificación en"
+msgstr "Última modificación el"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_all_student__write_uid
@@ -386,7 +386,7 @@ msgstr "Adjuntos principales"
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_register__message_has_error
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_sheet__message_has_error
 msgid "Message Delivery error"
-msgstr "Error de Envío de Mensaje"
+msgstr "Mensaje de error de envío"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_line__message_ids
@@ -489,7 +489,7 @@ msgstr "Hoja debe ser únicas por Registro / sesión."
 #. module: openeducat_attendance
 #: model:ir.ui.menu,name:openeducat_attendance.menu_op_attendance_sheet_sub
 msgid "Sheets"
-msgstr ""
+msgstr "Hojas de cálculo"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_sheet__state
@@ -521,7 +521,7 @@ msgstr "El estudiante debe ser únicas por Asistencia."
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
 msgid "Students"
-msgstr "estudiantes"
+msgstr "Estudiantes"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_register__subject_id
@@ -553,7 +553,7 @@ msgstr "En ausencia total"
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_sheet__total_present
 msgid "Total Present"
-msgstr "Presente total"
+msgstr "Presentes totales"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_line__message_unread

@@ -22,7 +22,7 @@ msgid "<p>Dear <strong>${object.student_id.name}</strong>\n"
 "<p>Thank you.</p>\n"
 "            "
 msgstr "<P> Estimado <strong> $ {} object.student_id.name </ strong>\n"
-"<P> Su Asignación Presentación <strong> ($ {} object.assignment_id.name) </ strong> fecha <strong> ($ {} object.submission_date) </ strong> ha sido aprobada. Por favor enviarlo tan pronto como sea posible. </ P>\n"
+"<P> Su Asignación <strong> ($ {} object.assignment_id.name) </ strong> fecha <strong> ($ {} object.submission_date) </ strong> ha sido aprobada. Por favor enviarlo tan pronto como sea posible. </ P>\n"
 "<P> Gracias. </ P>\n"
 "            "
 
@@ -33,7 +33,7 @@ msgid "<p>Dear <strong>${object.student_id.name}</strong>\n"
 "<p>Thank you.</p>\n"
 "            "
 msgstr "<P> Estimado <strong> $ {} object.student_id.name </ strong>\n"
-"<P> Su Asignación Presentación <strong> ($ {} object.assignment_id.name) </ strong> es la fecha <strong> $ {} object.submission_date </ strong>. Por favor enviarlo tan pronto como sea posible. </ P>\n"
+"<P> Su Asignación <strong> ($ {} object.assignment_id.name) </ strong> es la fecha <strong> $ {} object.submission_date </ strong>. Por favor enviarlo tan pronto como sea posible. </ P>\n"
 "<P> Gracias. </ P>\n"
 "            "
 
@@ -66,7 +66,7 @@ msgstr "Asignación"
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_form
 msgid "Allocation Infomation"
-msgstr "Infomation asignación"
+msgstr "Información de asignación"
 
 #. module: openeducat_assignment
 #: model:ir.model,name:openeducat_assignment.model_op_assignment
@@ -77,7 +77,7 @@ msgstr "Infomation asignación"
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_tree
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_student_form_assignment_inherit
 msgid "Assignment"
-msgstr "Asignaciones de"
+msgstr "Asignación"
 
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_form
@@ -90,24 +90,24 @@ msgstr "Nombre de la asignación"
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_search
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_tree
 msgid "Assignment Sub Line"
-msgstr "Asignación de línea Sub"
+msgstr "Sublínea de asignación"
 
 #. module: openeducat_assignment
 #: model:ir.model,name:openeducat_assignment.model_op_assignment_sub_line
 #: model:mail.template,report_name:openeducat_assignment.email_template_assignment_submission
 msgid "Assignment Submission"
-msgstr "Presentación de asignación"
+msgstr "Entrega de Trabajo"
 
 #. module: openeducat_assignment
 #: model:mail.template,subject:openeducat_assignment.email_template_assignment_submission_after
 msgid "Assignment Submission Date Passed"
-msgstr "Fecha de Envío asignación Passed"
+msgstr "Fecha de envío de la tarea aprobada"
 
 #. module: openeducat_assignment
 #: model:base.automation,name:openeducat_assignment.test_rule_assignment_sub_line
 #: model:ir.actions.server,name:openeducat_assignment.test_rule_assignment_sub_line_ir_actions_server
 msgid "Assignment Submission Line"
-msgstr "Asignación de línea Envío"
+msgstr "Línea de envío de tareas"
 
 #. module: openeducat_assignment
 #: model:base.automation,name:openeducat_assignment.test_rule_assignment_sub_line_after
@@ -139,7 +139,7 @@ msgstr "Tipos de asignación"
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_student__allocation_ids
 msgid "Assignment(s)"
-msgstr "Asignación (s)"
+msgstr "Asignación (es)"
 
 #. module: openeducat_assignment
 #: model:ir.actions.act_window,name:openeducat_assignment.act_open_op_assignment_view
@@ -176,7 +176,7 @@ msgstr "Cancelar"
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_form
 msgid "Change And Resubmit"
-msgstr "El cambio y volver a presentar"
+msgstr "Cambiar y volver a enviar"
 
 #. module: openeducat_assignment
 #: selection:op.assignment.sub.line,state:0
@@ -186,7 +186,7 @@ msgstr "Cambiar req."
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_form
 msgid "Change Require"
-msgstr "Exigir el cambio"
+msgstr "Cambios necesarios"
 
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_sub_line__user_boolean
@@ -202,7 +202,7 @@ msgstr "Código"
 #. module: openeducat_assignment
 #: sql_constraint:op.assignment.type:0
 msgid "Code should be unique per assignment type!"
-msgstr "Código debe ser único para cada tipo de asignación!"
+msgstr "El código debe ser único para cada tipo de asignación!"
 
 #. module: openeducat_assignment
 #: model:ir.ui.menu,name:openeducat_assignment.menu_op_assignment_configuration
@@ -241,13 +241,13 @@ msgstr "Descripción"
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_sub_line__display_name
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_type__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Nombre a mostrar"
 
 #. module: openeducat_assignment
 #: selection:op.assignment,state:0
 #: selection:op.assignment.sub.line,state:0
 msgid "Draft"
-msgstr "Proyecto"
+msgstr "Boceto"
 
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment__faculty_id
@@ -258,7 +258,7 @@ msgstr "Facultad"
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_sub_line__faculty_user_id
 msgid "Faculty User"
-msgstr "Facultad de usuario"
+msgstr "Usuario de Facultad"
 
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_form
@@ -300,7 +300,7 @@ msgstr "Agrupar por..."
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_sub_line__id
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment_type__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openeducat_assignment
 #: model:ir.model.fields,help:openeducat_assignment.field_op_assignment__message_unread
@@ -326,7 +326,7 @@ msgstr "Si se encuentra marcado, algunos mensajes tienen error de envío."
 msgid "Invalid Action!\n"
 " Parent can not             create Assignment Submissions!"
 msgstr "¡Acción no válida!\n"
-" Padre no puede crear envío de tareas!"
+" Elemento padre no puede crear envío de tareas!"
 
 #. module: openeducat_assignment
 #: code:addons/openeducat_assignment/models/assignment_sub_line.py:115
@@ -334,7 +334,7 @@ msgstr "¡Acción no válida!\n"
 msgid "Invalid Action!\n"
 " Parent can not edit             Assignment Submissions!"
 msgstr "¡Acción no válida!\n"
-" Los padres no pueden editar envío de tareas!"
+" Los elementos padres no pueden editar envío de tareas!"
 
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment__message_is_follower
@@ -468,7 +468,7 @@ msgstr "Rechazado"
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_form
 msgid "Resubmit"
-msgstr "volver a presentar"
+msgstr "Reenviar"
 
 #. module: openeducat_assignment
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment__reviewer
@@ -478,12 +478,12 @@ msgstr "Crítico"
 #. module: openeducat_assignment
 #: model:ir.actions.server,name:openeducat_assignment.assignment_sub_line_action
 msgid "Server Actions Assignment Submission"
-msgstr "Acciones envío de una tarea de servidor"
+msgstr "Envío de asignación de acciones del servidor"
 
 #. module: openeducat_assignment
 #: model:ir.actions.server,name:openeducat_assignment.assignment_sub_line_action_after
 msgid "Server Actions Assignment Submission After 1 Days"
-msgstr "Acciones del servidor envío de una tarea Después de 1 Días"
+msgstr "Envío de asignación de acciones del servidor después de 1 Días"
 
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_form
@@ -534,7 +534,7 @@ msgstr "Fecha de presentación no se puede ajustar antes de la fecha de emisión
 #: model:ir.model.fields,field_description:openeducat_assignment.field_op_assignment__assignment_sub_line
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_form
 msgid "Submissions"
-msgstr "presentaciones"
+msgstr "Envíos"
 
 #. module: openeducat_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_assignment.view_op_assignment_sub_line_form
@@ -544,7 +544,7 @@ msgstr "Enviar"
 #. module: openeducat_assignment
 #: model:mail.template,subject:openeducat_assignment.email_template_assignment_submission
 msgid "Submit Your Assignment"
-msgstr "Enviar su asignación"
+msgstr "Enviar su tarea"
 
 #. module: openeducat_assignment
 #: selection:op.assignment.sub.line,state:0
@@ -612,5 +612,5 @@ msgstr "Semana"
 #: code:addons/openeducat_assignment/models/assignment_sub_line.py:101
 #, python-format
 msgid "You can't delete none draft submissions!"
-msgstr "No se puede suprimir el proyecto de presentaciones ninguno!"
+msgstr "No se puede suprimir los borradores enviados!"
 

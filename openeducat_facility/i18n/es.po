@@ -36,19 +36,19 @@ msgstr "Creado por"
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility__create_date
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility_line__create_date
 msgid "Created on"
-msgstr "Creado en"
+msgstr "Creado el"
 
 #. module: openeducat_facility
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility__display_name
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility_line__display_name
 msgid "Display Name"
-msgstr "Nombre para mostrar"
+msgstr "Nombre a mostrar"
 
 #. module: openeducat_facility
 #: code:addons/openeducat_facility/models/facility_line.py:37
 #, python-format
 msgid "Enter proper Quantity in Facilities!"
-msgstr "Introduzca adecuada Cantidad de instalaciones!"
+msgstr "Introduzca la adecuada Cantidad de instalaciones!"
 
 #. module: openeducat_facility
 #: model:ir.actions.act_window,name:openeducat_facility.act_open_op_facility_view

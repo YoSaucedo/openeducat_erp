@@ -112,20 +112,20 @@ msgstr "Accion necesaria"
 #: model:ir.model.fields,field_description:openeducat_library.field_return_media__actual_return_date
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_movement_search
 msgid "Actual Return Date"
-msgstr "Real fecha de regreso"
+msgstr "Fecha de regreso"
 
 #. module: openeducat_library
 #: code:addons/openeducat_library/models/media_movement.py:92
 #, python-format
 msgid "Actual Return Date cannot be set before Issued Date"
-msgstr "Real fecha de regreso no se puede ajustar antes de la fecha de publicación"
+msgstr "Fecha de regreso no se puede ajustar antes de la fecha de publicación"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_author__address
 #: model:ir.model.fields,field_description:openeducat_library.field_op_publisher__address_id
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_student_library_form
 msgid "Address"
-msgstr "Habla a"
+msgstr "Dirección"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_student_library_form
@@ -149,7 +149,7 @@ msgstr "Todos los medios"
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__message_attachment_count
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_unit__message_attachment_count
 msgid "Attachment Count"
-msgstr "cuenta de enlaces"
+msgstr "Cuenta de enlaces"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_author_form
@@ -254,12 +254,12 @@ msgstr "Curso"
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_student_library_form
 msgid "Course Details"
-msgstr "detalles del curso"
+msgstr "Detalles del curso"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_form
 msgid "Courses"
-msgstr "cursos"
+msgstr "Cursos"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_movement_form
@@ -331,7 +331,7 @@ msgstr "Nombre para mostrar"
 #. module: openeducat_library
 #: selection:op.media.purchase,state:0
 msgid "Draft"
-msgstr "Sequía"
+msgstr "Borrador"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_movement__return_date
@@ -393,7 +393,7 @@ msgstr "Primer nombre"
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__message_follower_ids
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_unit__message_follower_ids
 msgid "Followers"
-msgstr "seguidores"
+msgstr "Seguidores"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_movement__message_channel_ids
@@ -414,7 +414,7 @@ msgstr "Seguidores (Partners)"
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__date_from
 msgid "From Date"
-msgstr "Partir de la fecha"
+msgstr "A partir de la fecha"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_media_unit_search
@@ -457,7 +457,7 @@ msgstr "Código ISBN"
 #. module: openeducat_library
 #: sql_constraint:op.media:0
 msgid "ISBN code must be unique per media!"
-msgstr "código ISBN debe ser único por los medios de comunicación!"
+msgstr "Código ISBN debe ser único por los medios de comunicación!"
 
 #. module: openeducat_library
 #: model:ir.model.fields,help:openeducat_library.field_op_media_movement__message_unread
@@ -547,7 +547,7 @@ msgstr "Fecha de asunto"
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_media_unit_form
 msgid "Issue Media"
-msgstr "medios de emisión"
+msgstr "Medios de emisión"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_issue_media
@@ -558,7 +558,7 @@ msgstr "Media Wizard tema"
 #: model:ir.actions.act_window,name:openeducat_library.issue_media_act
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_movement_form
 msgid "Issue media"
-msgstr "medios de emisión"
+msgstr "Medios de emisión"
 
 #. module: openeducat_library
 #: selection:op.media.movement,state:0
@@ -716,7 +716,7 @@ msgstr "Número de tarjeta de la biblioteca debe ser único por tarjeta!"
 #: model:product.product,name:openeducat_library.op_product_7
 #: model:product.template,name:openeducat_library.op_product_7_product_template
 msgid "Library penalty fee"
-msgstr "multa Biblioteca"
+msgstr "Multa Biblioteca"
 
 #. module: openeducat_library
 #: selection:op.media.movement,state:0
@@ -777,7 +777,7 @@ msgstr "Medios Informe de código de barras"
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_media
 msgid "Media Details"
-msgstr "detalles de este contenido"
+msgstr "Detalles de este contenido"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_media_movement
@@ -823,7 +823,7 @@ msgstr "Las solicitudes de compra de medios"
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media__queue_ids
 msgid "Media Queue"
-msgstr "medios de colas"
+msgstr "Medios de colas"
 
 #. module: openeducat_library
 #: model:ir.model,name:openeducat_library.model_op_media_queue
@@ -917,7 +917,7 @@ msgstr "Entrega de mensajes de error"
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__message_ids
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_unit__message_ids
 msgid "Messages"
-msgstr "mensajes"
+msgstr "Mensajes"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_student_library_form
@@ -932,7 +932,7 @@ msgstr "Segundo nombre"
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_media_unit_form
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_form
 msgid "Movements"
-msgstr "movimientos"
+msgstr "Movimientos"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_author__name
@@ -1149,7 +1149,7 @@ msgstr "devuelto"
 #. module: openeducat_library
 #: selection:op.media.movement,state:0
 msgid "Returned Done"
-msgstr "devuelto Done"
+msgstr "Devolución Hecha"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_op_media_movement_search
@@ -1159,7 +1159,7 @@ msgstr "Hoy devuelto"
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__name
 msgid "Sequence No"
-msgstr "número de la última"
+msgstr "Número de secuencia"
 
 #. module: openeducat_library
 #: model:ir.actions.server,name:openeducat_library.library_card_media_movement_action

@@ -597,7 +597,7 @@ msgstr "Ingeniería Informática"
 #. module: web_openeducat
 #: model_terms:ir.ui.view,arch_db:web_openeducat.footer
 msgid "Courses"
-msgstr "cursos"
+msgstr "Cursos"
 
 #. module: web_openeducat
 #: model_terms:ir.ui.view,arch_db:web_openeducat.home_option_1_demo_page_ir_ui_view

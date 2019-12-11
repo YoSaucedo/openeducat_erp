@@ -69,13 +69,13 @@ msgstr "Conteo de archivos adjuntos"
 #: code:addons/openeducat_activity/wizard/student_migrate_wizard.py:50
 #, python-format
 msgid "Can't migrate, As selected courses don't                         share same parent course!"
-msgstr "No se puede migrar, Como los cursos seleccionados no comparten mismo curso de los padres!"
+msgstr "No se puede migrar, Como los cursos seleccionados no comparten mismo curso base!"
 
 #. module: openeducat_activity
 #: code:addons/openeducat_activity/wizard/student_migrate_wizard.py:55
 #, python-format
 msgid "Can't migrate, Proceed for new admission"
-msgstr "No se puede migrar, proceda de nuevo ingreso"
+msgstr "No se puede migrar, proceda con un nuevo ingreso"
 
 #. module: openeducat_activity
 #: model_terms:ir.ui.view,arch_db:openeducat_activity.student_migrate_form
@@ -113,7 +113,7 @@ msgstr "Descripción"
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity_type__display_name
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Nombre a mostrar"
 
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity__faculty_id
@@ -143,20 +143,20 @@ msgstr "Adelante"
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate__course_from_id
 msgid "From Course"
-msgstr "A partir del curso"
+msgstr "Del curso"
 
 #. module: openeducat_activity
 #: code:addons/openeducat_activity/wizard/student_migrate_wizard.py:45
 #, python-format
 msgid "From Course must not be same as To Course!"
-msgstr "A partir del curso no debe ser el mismo que A Curso!"
+msgstr "Del curso no debe ser lo mismo que Al Curso!"
 
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity__id
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity_type__id
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openeducat_activity
 #: model:ir.model.fields,help:openeducat_activity.field_op_activity__message_unread
@@ -183,7 +183,7 @@ msgstr "Es un seguidor"
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity_type____last_update
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate____last_update
 msgid "Last Modified on"
-msgstr "Última modificación en"
+msgstr "Última modificación el"
 
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_op_activity__write_uid
@@ -286,9 +286,9 @@ msgid "Status based on activities\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr "Estado basado en actividades\n"
-"Vencida: la fecha tope ya ha pasado\n"
+"Vencido: la fecha tope ya ha pasado\n"
 "Hoy: La fecha tope es hoy\n"
-"Planificada: futuras actividades."
+"Planificado: futuras actividades."
 
 #. module: openeducat_activity
 #: model:ir.model,name:openeducat_activity.model_op_student
@@ -322,7 +322,7 @@ msgstr "Estudiante (s)"
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate__batch_id
 msgid "To Batch"
-msgstr "para lotes"
+msgstr "Lotes"
 
 #. module: openeducat_activity
 #: model:ir.model.fields,field_description:openeducat_activity.field_student_migrate__course_to_id

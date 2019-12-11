@@ -113,7 +113,7 @@ msgstr "Nombre del padre"
 #: model:ir.ui.menu,name:openeducat_parent.menu_op_parent_sub_parent
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.parent_student_form_view
 msgid "Parents"
-msgstr "padres"
+msgstr "Padres"
 
 #. module: openeducat_parent
 #: model:ir.model,name:openeducat_parent.model_op_student

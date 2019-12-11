@@ -107,7 +107,7 @@ msgstr "Todo examen de tema debe hacerse."
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__message_attachment_count
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__message_attachment_count
 msgid "Attachment Count"
-msgstr "cuenta de enlaces"
+msgstr "Cuenta de enlaces"
 
 #. module: openeducat_exam
 #: sql_constraint:op.exam.attendees:0
@@ -347,7 +347,7 @@ msgstr "Introduzca pase adecuado o no!"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_line__evaluation_type
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__evaluation_type
 msgid "Evolution type"
-msgstr "tipo de evolución"
+msgstr "Tipo de evolución"
 
 #. module: openeducat_exam
 #: model:ir.model,name:openeducat_exam.model_op_exam
@@ -487,7 +487,7 @@ msgstr "Exámenes"
 #: selection:op.marksheet.line,status:0
 #: selection:op.result.line,status:0
 msgid "Fail"
-msgstr "(Humor)"
+msgstr "Fallo"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__message_follower_ids
@@ -495,7 +495,7 @@ msgstr "(Humor)"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__message_follower_ids
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__message_follower_ids
 msgid "Followers"
-msgstr "seguidores"
+msgstr "Seguidores"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__message_channel_ids
@@ -521,7 +521,7 @@ msgstr ""
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_result_template_form
 msgid "Generate Result"
-msgstr "generar Resultado"
+msgstr "Generar Resultado"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__generated_by
@@ -541,7 +541,7 @@ msgstr "Fecha generada"
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_marksheet_report
 #: selection:op.exam.session,evaluation_type:0
 msgid "Grade"
-msgstr "Calificar; nota"
+msgstr "Calificación"
 
 #. module: openeducat_exam
 #: model:ir.actions.act_window,name:openeducat_exam.act_open_op_grade_configuration_view
@@ -551,12 +551,12 @@ msgstr "Calificar; nota"
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_grade_configuration_form
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_grade_configuration_tree
 msgid "Grade Configuration"
-msgstr "Configuración de grado"
+msgstr "Configuración de calificaciones"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_result_template_form
 msgid "Grades"
-msgstr "Los grados"
+msgstr "Calificaciones"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_exam_attendees_search
@@ -574,19 +574,19 @@ msgstr "Agrupar por..."
 #: selection:op.exam,state:0
 #: selection:op.exam.session,state:0
 msgid "Held"
-msgstr "Llevó a cabo"
+msgstr "Realizado"
 
 #. module: openeducat_exam
 #: model:ir.model,name:openeducat_exam.model_op_held_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_exam_form
 msgid "Held Exam"
-msgstr "Examen Held"
+msgstr "Examen realizado"
 
 #. module: openeducat_exam
 #: model:ir.actions.act_window,name:openeducat_exam.act_open_op_held_exam_view
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_held_exam_form
 msgid "Held Exam Wizard"
-msgstr "Asistente de Examen Held"
+msgstr "Asistente de Examen Realizado"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__id
@@ -637,7 +637,7 @@ msgstr "Si está marcada, algunos mensajes tienen un error de entrega."
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__message_is_follower
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__message_is_follower
 msgid "Is Follower"
-msgstr "es Seguidor"
+msgstr "Es Seguidor"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam____last_update
@@ -690,7 +690,7 @@ msgstr "Última actualización realizada por"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_room_distribution__write_date
 #: model:ir.model.fields,field_description:openeducat_exam.field_student_hall_ticket__write_date
 msgid "Last Updated on"
-msgstr "Ultima actualización en"
+msgstr "Ultima actualización el"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__message_main_attachment_id
@@ -749,7 +749,7 @@ msgstr "Registros de Marksheet"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__marksheet_line
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_marksheet_register_form
 msgid "Marksheets"
-msgstr "libretas de calificaciones"
+msgstr "Libretas de calificaciones"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_grade_configuration__max_per
@@ -770,7 +770,7 @@ msgstr "Entrega de mensajes de error"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__message_ids
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__message_ids
 msgid "Messages"
-msgstr "mensajes"
+msgstr "Mensajes"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_grade_configuration__min_per
@@ -781,7 +781,7 @@ msgstr "Porcentaje mínimo"
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_marksheet_report
 msgid "Month/Year\n"
 "                                                    of Passing"
-msgstr "Mes año\n"
+msgstr "Mes/Año\n"
 "                                                    de transmitir"
 
 #. module: openeducat_exam
@@ -926,7 +926,7 @@ msgstr "Resultado"
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__result_date
 msgid "Result Date"
-msgstr "Fecha resultado"
+msgstr "Fecha de resultado"
 
 #. module: openeducat_exam
 #: selection:op.result.template,state:0
@@ -1078,12 +1078,12 @@ msgstr "Entradas sala estudiantil"
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_ticket
 msgid "Student Image"
-msgstr "imagen estudiante"
+msgstr "Imagen del estudiante"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_result_line_search
 msgid "Students"
-msgstr "estudiantes"
+msgstr "Estudiantes"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__subject_id
@@ -1098,7 +1098,7 @@ msgstr "Tema"
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_ticket
 msgid "Supervisor Sign"
-msgstr "supervisor de sesión"
+msgstr "Firma del Supervisor"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_ticket
@@ -1116,7 +1116,7 @@ msgstr "Total\n"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__total_failed
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_marksheet_register_search
 msgid "Total Fail"
-msgstr "total de Falla"
+msgstr "Total de Fallas"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__total_marks
@@ -1128,12 +1128,12 @@ msgstr "Notas totales"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__total_pass
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.view_op_marksheet_register_search
 msgid "Total Pass"
-msgstr "paso total"
+msgstr "Total Correctas"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_room_distribution__total_student
 msgid "Total Student"
-msgstr "estudiante total"
+msgstr "Total del Estudiante"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam__message_unread
@@ -1159,7 +1159,7 @@ msgstr "Validar Marksheet"
 #. module: openeducat_exam
 #: selection:op.marksheet.register,state:0
 msgid "Validated"
-msgstr "validado"
+msgstr "Validado"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam_session__venue
@@ -1176,7 +1176,7 @@ msgstr "Lugar de encuentro"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_marksheet_register__website_message_ids
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_result_template__website_message_ids
 msgid "Website Messages"
-msgstr "Mensajes Sitio Web"
+msgstr "Mensajes del Sitio Web"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,help:openeducat_exam.field_op_exam__website_message_ids
@@ -1184,5 +1184,5 @@ msgstr "Mensajes Sitio Web"
 #: model:ir.model.fields,help:openeducat_exam.field_op_marksheet_register__website_message_ids
 #: model:ir.model.fields,help:openeducat_exam.field_op_result_template__website_message_ids
 msgid "Website communication history"
-msgstr "historia de la comunicación Sitio Web"
+msgstr "Historial de la comunicación del Sitio Web"
 
